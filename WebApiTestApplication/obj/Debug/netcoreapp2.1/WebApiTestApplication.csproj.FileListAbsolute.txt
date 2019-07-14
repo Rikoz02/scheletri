@@ -1,0 +1,14 @@
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\obj\Debug\netcoreapp2.1\WebApiTestApplication.csprojAssemblyReference.cache
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\obj\Debug\netcoreapp2.1\WebApiTestApplication.csproj.CoreCompileInputs.cache
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\obj\Debug\netcoreapp2.1\WebApiTestApplication.RazorAssemblyInfo.cache
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\obj\Debug\netcoreapp2.1\WebApiTestApplication.RazorAssemblyInfo.cs
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\obj\Debug\netcoreapp2.1\WebApiTestApplication.AssemblyInfoInputs.cache
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\obj\Debug\netcoreapp2.1\WebApiTestApplication.AssemblyInfo.cs
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\bin\Debug\netcoreapp2.1\WebApiTestApplication.deps.json
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\bin\Debug\netcoreapp2.1\WebApiTestApplication.runtimeconfig.json
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\bin\Debug\netcoreapp2.1\WebApiTestApplication.runtimeconfig.dev.json
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\bin\Debug\netcoreapp2.1\WebApiTestApplication.dll
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\bin\Debug\netcoreapp2.1\WebApiTestApplication.pdb
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\obj\Debug\netcoreapp2.1\WebApiTestApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\obj\Debug\netcoreapp2.1\WebApiTestApplication.dll
+C:\Users\Riccardo\Desktop\ITS-ITC\Esame finale\WebApiTestApplication\WebApiTestApplication\obj\Debug\netcoreapp2.1\WebApiTestApplication.pdb
